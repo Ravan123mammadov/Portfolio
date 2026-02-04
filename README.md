@@ -1,4 +1,4 @@
-# Rəvan's Portfolio Website
+# Ravan's Portfolio Website
 
 This website is my personal portfolio project, created in 10th grade out of my own interest.  
 
